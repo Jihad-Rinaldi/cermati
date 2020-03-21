@@ -1,8 +1,3 @@
----
-title: 'Cermati Software Engineer Test'
-disqus: hackmd
----
-
 Cermati Software Engineer Test
 ---
 
